@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem-Genetic-Algorithm
-##Controls:
+## Controls:
 - R - adds 5 random points
 - C - stops current loop
 - Left click - adds single point in cursor position
